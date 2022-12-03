@@ -1,0 +1,39 @@
+@charset "ISO-8859-1";
+
+body {
+	background-image: url("background.jpeg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	color: white;
+	
+}
+
+#login_page {
+	background-image: url("background.jpeg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	color: white;
+	
+}
+
+#login_form {
+	background-color: rgba(0, 0, 0, 0.8);
+}
+
+#user_tab, #book_tab {
+	background-color: rgba(0, 0, 0, 0.8);
+	color: white;
+	margin-bottom: 100%;
+}
+
+#footer {
+	text-align: center;
+	background-color: black;
+	color: white;
+	display: block;
+	left: 0;
+	bottom:0;
+	position:absolute;
+	width:100%;
+	padding: 5px;
+}
